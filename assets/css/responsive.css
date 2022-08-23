@@ -1,7 +1,7 @@
 /* PC */
 @media (min-width: 1024px) {
     .mobile-menu-btn {
-        display: none;
+        /* display: none; */
     }
 }
 
@@ -13,10 +13,10 @@
 /* Mobile */
 @media (max-width: 740px) {
     #nav > li {
-        display: block;
+        /* display: block; */
     }
     
     #header .btn-search {
-        display: none;
+        /* display: none; */
     }
 }
